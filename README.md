@@ -1,4 +1,4 @@
-# 🇩🇪 Feiertags-API Deutschland
+# Feiertags-API Deutschland
 
 Diese API stellt **alle gesetzlichen Feiertage, Festtage und besonderen Ereignisse in Deutschland** als strukturierte, filterbare JSON-Daten zur Verfügung – **kostenfrei** über eine öffentliche REST-Schnittstelle.
 
