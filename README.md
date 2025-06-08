@@ -67,13 +67,24 @@ Hier kann man gezielt filtern, **welche Feiertage in welchem Bundesland** gelten
 ---
 
 ### 📅 Monatsansicht
-Kalenderansicht der Feiertage sortiert nach Monaten.
+In der **Monatsansicht** bekommt man eine strukturierte Übersicht aller Monate des Jahres. 
+
+Man sieht sofort, **welche Feiertage es in welchem Monat** gibt – gefiltert nach **Bundesland**, **Jahr** und **Kategorie**. Ideal für eine gezielte Monatsplanung oder zur Integration in Kalenderdienste.
+
+🔗 Zur Monatsübersicht: [https://die-feiertage-in-deutschland.de/monate](https://die-feiertage-in-deutschland.de/monate)
+
 ![Monate](https://prod-apache.shsoftwaresolution.de/public_website_data/data/feiertage/app_image/monate.avif)
+
 
 ---
 
-### 🎉 Feiertagsübersicht
-Alle besonderen Tage, geordnet nach Kategorien: gesetzlich, festlich, historisch.
+## 🎉 Feiertagsübersicht
+Hier findet man eine vollständige Liste **aller Feiertage**, kategorisiert nach gesetzlichen Feiertagen, festlichen Tagen und Ereignistagen.
+
+Man kann sehen, **wann ein bestimmter Feiertag stattfindet** – bis zu 10 Jahre in die Vergangenheit und Zukunft. Zusätzlich gibt es zu jedem Feiertag eine **ausführliche Beschreibung** mit kulturellem Kontext.
+
+🔗 Direktlink: [https://die-feiertage-in-deutschland.de/feiertage](https://die-feiertage-in-deutschland.de/feiertage)
+
 ![Feiertage](https://prod-apache.shsoftwaresolution.de/public_website_data/data/feiertage/app_image/feiertage.avif)
 
 ---
