@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "holiday_name": "Heilige Drei Könige",
+      "holiday_month_number": 1,
+      "holiday_month_name": "Januar",
+      "holiday_day": 6,
+      "holiday_year": 2025,
+      "holiday_date": "06.01.2025",
+      "applicable_states": "Baden-Württemberg, Bayern, Sachsen-Anhalt",
+      "category_code": "PUBLIC",
+      "category_label": "Gesetzlicher Feiertag",
+      "holiday_description": "Feiertag in Bayern, Baden-Württemberg und Sachsen-Anhalt am 6. Januar"
+    },
+    {
+      "holiday_name": "Holocaust-Gedenktag",
+      "holiday_month_number": 1,
+      "holiday_month_name": "Januar",
+      "holiday_day": 27,
+      "holiday_year": 2025,
+      "holiday_date": "27.01.2025",
+      "applicable_states": "Alle Bundesländer",
+      "category_code": "EVENT",
+      "category_label": "Gedenk- oder Aktionstag",
+      "holiday_description": "Ein Gedenktag zu Ehren der Opfer des Holocaust und des Nationalsozialismus, jährlich am 27. Januar."
+    },
+    {
+      "holiday_name": "Neujahr",
+      "holiday_month_number": 1,
+      "holiday_month_name": "Januar",
+      "holiday_day": 1,
+      "holiday_year": 2025,
+      "holiday_date": "01.01.2025",
+      "applicable_states": "Alle Bundesländer",
+      "category_code": "PUBLIC",
+      "category_label": "Gesetzlicher Feiertag",
+      "holiday_description": "Neujahr am 1. Januar"
+    },
+    {
+      "holiday_name": "Tag der Jogginghose",
+      "holiday_month_number": 1,
+      "holiday_month_name": "Januar",
+      "holiday_day": 21,
+      "holiday_year": 2025,
+      "holiday_date": "21.01.2025",
+      "applicable_states": "Alle Bundesländer",
+      "category_code": "EVENT",
+      "category_label": "Gedenk- oder Aktionstag",
+      "holiday_description": "Am 21. Januar tragen Menschen weltweit Jogginghosen, um Bequemlichkeit und Komfort zu feiern."
+    }
+  ],
+  "hasMore": false,
+  "limit": 100,
+  "offset": 0,
+  "count": 4,
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://die-feiertage-in-deutschland.de/ords/feiertage/api/month/2025/01"
+    },
+    {
+      "rel": "describedby",
+      "href": "https://die-feiertage-in-deutschland.de/ords/feiertage/metadata-catalog/api/month/2025/item"
+    },
+    {
+      "rel": "first",
+      "href": "https://die-feiertage-in-deutschland.de/ords/feiertage/api/month/2025/01"
+    }
+  ]
+}
