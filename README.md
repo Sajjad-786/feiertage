@@ -2,8 +2,6 @@
 
 Diese API stellt **alle gesetzlichen Feiertage, Festtage und besonderen Ereignisse in Deutschland** als strukturierte, filterbare JSON-Daten zur Verfügung – **kostenfrei** über eine öffentliche REST-Schnittstelle.
 
-Die gesamte Lösung wurde von Hand entwickelt – **nicht von künstlicher Intelligenz generiert**, sondern sorgfältig kuratiert und implementiert.
-
 ---
 
 ## 🔗 Offizielle Projektseite
